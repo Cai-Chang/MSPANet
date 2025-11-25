@@ -1,2 +1,3 @@
-# PAKNet
+#MSPANet
+
 Graduate Programs
